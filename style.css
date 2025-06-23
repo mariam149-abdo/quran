@@ -56,7 +56,7 @@ header nav ul li a:hover{
   padding-bottom:10px;
 }
 #home{
-  background-image: url("images 16/pexels-oznur-taskan-172633297-16126230.jpg");
+  background-image: url("images-16/pexels-oznur-taskan-172633297-16126230.jpg");
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
@@ -227,7 +227,7 @@ header nav ul li a:hover{
 #radio {
   height:100vh;
   width:100%;
-  background: url("images 16/pexels-ebahir-1173285862-32470206 (1).jpg");
+  background: url("images-16/pexels-ebahir-1173285862-32470206 (1).jpg");
   background-position: center;
   background-size: cover;
   text-align: center;
