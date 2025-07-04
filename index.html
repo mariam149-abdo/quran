@@ -1,9 +1,11 @@
 <!DOCTYPE html>
-<html lang="ar">
+<html lang="en">
 <head>
   <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>الكتاب المبين</title>
   <link href="style.css" rel="stylesheet">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
 </head>
 <body>
   <header>
@@ -14,6 +16,16 @@
         <li><a href="#fehres">فهرس السور</a></li>
         <li><a href="#home">الرئيسية</a></li>
       </ul>
+       <div id="menu-icon">
+        <i class="fa-solid fa-bars"></i>
+    </div>
+    <div id="mobile-menu" class="mobile-menu">
+    <a href="#home">Home</a>
+    <a href="#about">About</a>
+    <a href="#menu">Menu</a>
+    <a href="#reviews">Reviews</a>
+    <a href="#contact">Contact</a>
+    </div> 
     </nav>
     <h1>الكتاب المبين</h1>
   </header>
@@ -25,10 +37,12 @@
 <a href="#fehres" alt="" >أبدأ الان</a>
   </section>
     <section id="fehres">
-<h2>﴾ فهرس سور المصحف الشريف ﴿</h2> <hr>
+<h2>﴾ سور المصحف الشريف﴿</h2> <hr>
   <button id="back-to-index">الرجوع إلى الفهرس</button>
+  <h3 id="basmala">(بِسۡمِ ٱللَّهِ ٱلرَّحۡمَـٰنِ ٱلرَّحِیمِ)</h3>
 <ul id="surah-list"></ul>
 <div id="ayahs"></div>
+
     </section>
 
     <section id="radio">
