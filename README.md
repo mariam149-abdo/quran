@@ -27,7 +27,7 @@ This project allows users to:
 - **CSS3**
 - **JavaScript (DOM + API Integration)**
 - **Responsive Web Design (Media Queries)**
-- **APIs (Quran & mp3quran.net)**
+- **APIs**
 - **Git & GitHub**
 
 ---
@@ -36,7 +36,6 @@ This project allows users to:
 
 - Auto-generated list of all Quran Surahs
 - Displays verses of selected Surah
-- Plays Quran audio by chosen reciter
 - Clean and modern Islamic UI
 - Fully responsive on mobile & desktop
 
@@ -51,7 +50,5 @@ QURAN ELKTAB ELMOBEN/
 ├── script.js
 ├── images/ ← All images & illustrations
 └── README.md
-
-## Developer
 
 **Designed and developed by Mariam Abdelhak**
