@@ -344,7 +344,7 @@ header nav ul li a:hover{
 }
 #qiraat .cards .card h2{
   color:var(--text-color);
-  font-size: 30px;
+  font-size: 25px;
   padding-top:10px;
   font-weight: 600;
 }
@@ -375,6 +375,9 @@ header nav ul li a:hover{
   color:var(--text-color);
   font-size:17px;
   font-weight:600;
+}
+#home{
+  padding-top:150px;
 }
 #home a{
   margin-right:10px;
